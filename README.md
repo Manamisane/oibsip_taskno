@@ -51,7 +51,7 @@
 
 
 
-CSS CODE:
+
 body {
     margin: 0;
     padding: 0;
